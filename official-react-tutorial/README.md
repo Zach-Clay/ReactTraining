@@ -5,8 +5,8 @@ In this tutorial, I am following along with the official React tutorial found on
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Running the App
+## Running the app
 
 In the project directory, you can run:
-
-### `npm start`
+`npm i` to install dependencies, then
+`npm start` to start the application
