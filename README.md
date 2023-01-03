@@ -1,2 +1,4 @@
-# ReactTraining
-Projects &amp; tutorials to get familiar with React
+# React Training
+Projects &amp; tutorials to get familiar with React.
+
+I have experience using Vue.js and I am proficient in Angular, however, React is something I have not used very much. This repo contains small projects and tutorials so that I can gain familiarity and proficiency in React.
