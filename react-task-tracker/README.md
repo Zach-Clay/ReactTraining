@@ -1,6 +1,6 @@
 # React Task Tracker
 
-In this tutorial, I am following along with the Traversy Media's YouTube video you can find here: https://www.youtube.com/watch?v=w7ejDZ8SWv8. I created a basic Task Tracker app.
+In this tutorial, I am following along with the Traversy Media's YouTube video you can find here: https://www.youtube.com/watch?v=w7ejDZ8SWv8. I created a basic Task Tracker app. I am not using any sort of backend here, so there are 3 tasks that are already created.
 
 ## Create React App
 
