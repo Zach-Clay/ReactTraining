@@ -7,6 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Running the app
 
-In the project directory, you can run:
-`npm i` to install dependencies, then
-`npm start` to start the application
+In the project directory, you can run
+- `npm i` to install dependencies, then
+- `npm start` to start the application
